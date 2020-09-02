@@ -21,3 +21,4 @@ def sosu(num):
 
 main()
 print("Yeeee")
+print("Yeeees")
