@@ -17,6 +17,7 @@ def sosu(num):
             else:
                 sum_data += i
     print(sum_data)
+    print('hello')
 
 main()
 print("Yeeee")
