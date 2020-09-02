@@ -1,7 +1,7 @@
 
 
 def main():
-    num = int(input("いくつまでの素数を足しますか・・・"))
+    num = int(input("いくつまでの素数を足しますか・・・?"))
     sosu(num)
 
 def sosu(num):
