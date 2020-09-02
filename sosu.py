@@ -20,3 +20,4 @@ def sosu(num):
     print('hello')
 
 main()
+print("Yeeee")
