@@ -18,6 +18,9 @@ def sosu(num):
                 sum_data += i
     print(sum_data)
     print('hello')
+    print('hello')
+    print('hello')
+    print('hello')
 
 main()
 print("Yeeee")
